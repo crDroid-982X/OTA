@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "FrEeRuNnEr4EvEr",
+			"oem": "Samsung",
+			"device": "Galaxy S10+",
+			"filename": "crDroidAndroid-13.0-20230113-beyond2lte-v9.1.zip",
+			"download": "",
+			"timestamp": 1673656852,
+			"md5": "5b12565a9f45c939f93e7bc82f4532f0",
+			"sha256": "07a558b5151bc14bea8830c5c8ee199a112f5c08c5b5e8088729867ba098ade0",
+			"size": 968711726,
+			"version": "9.1",
+			"buildtype": "Monthly",
+			"forum": "https://forum.xda-developers.com/t/rom-13-unofficial-beyond-0-1-2-x-crdroid-9-1-january-11-2023-dynamicencryption.4523535/",
+			"gapps": "https://downloads.codefi.re/jdcteam/javelinanddart/gapps",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "https://store5.gofile.io/download/direct/9042a762-139b-4965-9544-9c0384ef462b/recovery.img",
+			"paypal": "",
+			"telegram": "https://t.me/+RKah3dXKMlkxZjJk",
+			"dt": "https://github.com/sealsplayground/android_device_samsung_beyond2lte",
+			"common-dt": "https://github.com/crDroid-982X/android_device_samsung_exynos9820-common",
+			"kernel": "https://github.com/sealsplayground/android_kernel_samsung_exynos9820"
+		}
+	]
+}
